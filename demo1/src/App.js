@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './App.css';
 import C from './constants';
 import initialState from './state';
 import {createStore, combineReducers} from 'redux'
