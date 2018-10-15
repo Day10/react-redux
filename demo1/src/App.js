@@ -140,7 +140,6 @@ const store = createStore(
   initialState
 )
 store.subscribe(() => {
-
   console.log(store.getState())
 })
 
